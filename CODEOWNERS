@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @HiPanJin
+/src/backend/database.py      @HiPanJin
+/src/backend/routers/auth.py  @HiPanJin
+
+# Frontend
+/src/static/                  @HiPanJin
